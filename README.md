@@ -9,7 +9,7 @@ But underneath all of it is a systems-level question about how frontier technolo
 This GitHub is where I park that thinking and experiment with the tools I write about.
 
 Currently thinking about:
-- How frontier AI models get built for — not just deployed in — emerging markets
-- Human data providers, the post-training value chain and the value of human intelligence to AI systems
+- How voice becomes the default interface in markets where text never was
+- What real AI market formation requires beyond model access in emerging economies
   
 📎 [LinkedIn](https://linkedin.com/in/princess-adentan-85989199)
