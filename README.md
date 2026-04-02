@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Princess 👋🏾
 
-<!--
-**princessadentan/princessadentan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an HBS '26 student at the intersection of product, investing, and emerging tech. I think a lot about how AI is reshaping industries — and what that means for markets that are often an afterthought in Silicon Valley conversations, particularly across Africa.
 
-Here are some ideas to get you started:
+My research tends to follow my curiosity. Everything from Voice AI infrastructure and Physical AI/Robotics to barriers to AI market formation in Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I park that thinking and experiment with the tools I write about.
+
+Currently thinking about:
+- How frontier AI models get built for — not just deployed in — emerging markets
+- Human data providers and the value of human intelligence to AI systems
+  
+📎 [LinkedIn](https://linkedin.com/in/princess-adentan-85989199)
