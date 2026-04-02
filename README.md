@@ -1,6 +1,6 @@
 ## Hi there, I'm Princess 👋🏾
 
-I'm an HBS '26 student at the intersection of product, investing, and emerging tech. I think a lot about how AI is reshaping industries — and what that means for markets that are often an afterthought in Silicon Valley conversations, particularly across Africa.
+I'm an HBS '26 student at the intersection of product, investing, and emerging tech. I think a lot about how AI is reshaping industries and what that means for markets that are often an afterthought in Silicon Valley conversations, particularly across Africa.
 
 My research tends to follow my curiosity. Everything from Voice AI infrastructure and Physical AI/Robotics to barriers to AI market formation in Africa.
 
