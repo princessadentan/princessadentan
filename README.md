@@ -14,7 +14,7 @@ This GitHub is my **thinking portfolio**: a collection of AI market theses, prod
 
 ## Open to
 
-I’m especially interested in product and commercialization roles at AI-native and tech companies.
+I’m especially interested in product and commercialization roles at AI-native companies.
 
 Reach out if you're building in AI infrastructure, applied AI, workflow software, or emerging market technology.
 
