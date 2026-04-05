@@ -1,6 +1,6 @@
 ## Hi, I’m Princess
 
-Former Google operator across X, Loon, and Search, where I worked on frontier products and launches, most recently as product marketing lead for Gemini in Search at Google I/O 2024. I’m currently an HBS MBA candidate (Class of 2026) where I’ve also explored venture investing.
+Former Google operator across X, Loon, and Search, where I worked on frontier products and launches, most recently as product marketing lead for Gemini in Search at Google I/O 2024. I’m currently an HBS MBA candidate (Class of 2026) where I’ve also explored venture capital.
 
 I’m most interested in the intersection of product and commercialization — what gets built, how it reaches users, and what it takes for new technologies to create durable value in the world.
 
