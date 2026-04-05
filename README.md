@@ -12,20 +12,6 @@ This GitHub is my **thinking portfolio**: a collection of AI market theses, prod
 - **Product prototyping** -- building and testing AI tools around workflow problems I encounter in daily life
 - **Frontier tech in emerging markets** -- what real market formation requires beyond model access, including distribution, infrastructure, willingness to pay, and local context
 
-## Featured thinking
-
-### [hbs-case-reader](https://github.com/princessadentan/hbs-case-reader)
-A PDF reader for MBA case prep with ElevenLabs audio and text highlighting. Built to unify a fragmented reading, listening, and annotation workflow and to get hands-on with voice APIs through a real use case.
-
-### [voice-ai-investment-thesis](https://github.com/princessadentan/voice-ai-investment-thesis)
-A market landscape and thesis on enterprise Voice AI — where the infrastructure is heading, where value accrues, and what product and GTM teams should pay attention to.
-
-### [physical-ai-robotics-thesis](https://github.com/princessadentan/physical-ai-robotics-thesis)
-A market landscape and thesis on Physical AI and robotics, focused on the stack, open strategic questions, and where software-layer opportunities may emerge.
-
-### [ai-market-formation-africa](https://github.com/princessadentan/ai-market-formation-africa)
-Research and notes on the real bottlenecks to AI market formation in Africa, including compute, talent, policy, and distribution.
-
 ## Open to
 
 I’m especially interested in product and commercialization roles at AI-native and tech companies.
